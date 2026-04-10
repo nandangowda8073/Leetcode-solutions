@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Hash Table
