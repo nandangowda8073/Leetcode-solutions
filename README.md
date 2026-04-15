@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Hash Table
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
