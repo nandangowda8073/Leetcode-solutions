@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
