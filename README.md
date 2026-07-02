@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
