@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0424-longest-repeating-character-replacement](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
