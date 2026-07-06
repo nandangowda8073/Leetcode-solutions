@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0435-non-overlapping-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -162,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
