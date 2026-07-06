@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
