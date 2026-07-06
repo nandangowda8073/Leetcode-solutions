@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Array
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/nandangowda8073/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
