@@ -7,7 +7,7 @@ class Solution {
             return ans;
         }
 
-        Stack<TreeNode> st = new Stack<TreeNode>();
+        Stack<TreeNode> st = new Stack<>();
 
         st.push(root);
 
